@@ -1,0 +1,58 @@
+Mar 18, 2025 5:45:31 PM MovieTicketBookingTest setup
+INFO: Setting up test environment
+Mar 18, 2025 5:46:32 PM MovieTicketBookingTest setup
+INFO: Browser started successfully
+Mar 18, 2025 5:46:32 PM MovieTicketBookingTest testLogin
+INFO: Starting login test
+Mar 18, 2025 5:46:32 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 01_initial_page.png
+Mar 18, 2025 5:46:32 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 02_login_form_filled.png
+Mar 18, 2025 5:46:33 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 03_after_login.png
+Mar 18, 2025 5:46:33 PM MovieTicketBookingTest testLogin
+INFO: Login test completed successfully
+Mar 18, 2025 5:46:33 PM MovieTicketBookingTest testMovieSelection
+INFO: Starting movie selection test
+Mar 18, 2025 5:46:33 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 04_movie_selected.png
+Mar 18, 2025 5:46:33 PM MovieTicketBookingTest testMovieSelection
+INFO: Movie selection test completed successfully
+Mar 18, 2025 5:46:33 PM MovieTicketBookingTest testDateTimeSelection
+INFO: Starting date and time selection test
+Mar 18, 2025 5:46:33 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 05_date_time_selected.png
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest testDateTimeSelection
+INFO: Date and time selection test completed successfully
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest testSeatSelection
+INFO: Starting seat selection test
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 06_seats_selected.png
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest testSeatSelection
+INFO: Seat selection test completed successfully
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest testPaymentWithSufficientBalance
+INFO: Starting payment test with sufficient balance
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 07_payment_page.png
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 08_booking_confirmed.png
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest testPaymentWithSufficientBalance
+INFO: Payment test with sufficient balance completed successfully
+Mar 18, 2025 5:46:34 PM MovieTicketBookingTest testInsufficientBalance
+INFO: Starting test for insufficient balance
+Mar 18, 2025 5:46:35 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 09_insufficient_balance_payment.png
+Mar 18, 2025 5:46:35 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 10_insufficient_balance_error.png
+Mar 18, 2025 5:46:35 PM MovieTicketBookingTest testInsufficientBalance
+INFO: Test for insufficient balance completed successfully
+Mar 18, 2025 5:46:35 PM MovieTicketBookingTest testReturnToLogin
+INFO: Starting test for returning to login
+Mar 18, 2025 5:46:36 PM MovieTicketBookingTest takeScreenshot
+INFO: Screenshot saved: 11_returned_to_login.png
+Mar 18, 2025 5:46:36 PM MovieTicketBookingTest testReturnToLogin
+INFO: Test for returning to login completed successfully
+Mar 18, 2025 5:46:36 PM MovieTicketBookingTest tearDown
+INFO: Tearing down test environment
+Mar 18, 2025 5:46:36 PM MovieTicketBookingTest tearDown
+INFO: Browser closed

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Movie Ticket Booking Test Suite">
+    <test name="Ticket Booking System Tests">
+        <classes>
+            <class name="MovieTicketBookingTest"/>
+        </classes>
+    </test>
+</suite>
