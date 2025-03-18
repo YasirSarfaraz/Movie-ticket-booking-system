@@ -55,24 +55,51 @@ All tests passed successfully as of March 18, 2025.
 
 ### Running the Frontend
 
-
 1. Navigate to the frontend directory:
+
 ```
     cd c:\Users\yasir\OneDrive\Desktop\moviee\movie-ticket-booking
 ```
+
 2. Start a local server:
+
 ```
     npm install -g http-server http-server -p 3000
 ```
-3. Access the application at ``` http://localhost:3000 ```
+
+3. Access the application at ``http://localhost:3000``
 
 ### Running the Tests
 
-1. Navigate to the test directory: 
-```cd c:\Users\yasir\OneDrive\Desktop\moviee\movie-ticket-booking-test```
+1. Navigate to the test directory:
+   ``cd c:\Users\yasir\OneDrive\Desktop\moviee\movie-ticket-booking-test``
 2. Run tests using Maven:
-``` mvn clean test ```
+   ``mvn clean test``
 3. View test results in the `target/surefire-reports` directory and screenshots in the `screenshots` folder
+
+
+## Test Artifacts
+
+The test execution generates the following artifacts:
+
+* Screenshots: Stored in the `screenshots` directory
+* Logs: Stored in the `logs` directory
+* Test Reports: Generated in the `target/surefire-reports` directory
+
+## Bonus Features
+
+* Responsive design for mobile and desktop
+* Animated transitions between booking steps
+* Visual progress indicator for the booking process
+* Wallet balance display that updates in real-time
+* Confirmation page with booking details and ticket code
+
+## Credentials for Testing
+
+The system is pre-configured with the following test users:
+
+1. Username: `user1`, Password: `password1`, Wallet Balance: $100
+2. Username: `user2`, Password: `password2`, Wallet Balance: $50
 
 ## Test Results
 
