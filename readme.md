@@ -2,6 +2,12 @@
 
 A comprehensive web-based movie ticket booking application with automated Selenium tests. This project demonstrates a complete movie ticket booking workflow, including login, movie selection, showtime selection, seat selection, and payment processing.
 
+## 🎥 Demo Video  
+<video width="600" controls>
+  <source src="video/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Project Structure
 
 - **movie-ticket-booking**: Frontend application
